@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local data and generated validation/cache artifacts
+data/
+tmp/
+
 # IPython
 profile_default/
 ipython_config.py
