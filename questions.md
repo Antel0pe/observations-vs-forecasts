@@ -1,0 +1,3 @@
+1. given observations how do you understand and look at the sheer quantity of them? are you mainly focused in a small area which helps reduce the noise?
+2. we can see a particular point is different from observation, but where does that difference start and end?
+3. how do you validate upper atmosphere stuff? what observations exist there? what is the value of off the surface observations? i guess this matters more for a) increasing confidence in surface forecasts and b) longer term forecasts.

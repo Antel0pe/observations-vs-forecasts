@@ -1,0 +1,1 @@
+- go through every major observation type like sondes, radar, satellite and compare them to real forecasts
